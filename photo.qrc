@@ -1,0 +1,12 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+	<qresource>
+		<file>icons/p1.png</file>
+		<file>icons/p2.png</file>
+		<file>icons/khaled.jpeg</file>
+		<file>icons/send.png</file>
+		<file>icons/mic.png</file>
+		<file>icons/attach.png</file>
+		<file>icons/placeholder.png</file>
+	</qresource>
+</RCC>

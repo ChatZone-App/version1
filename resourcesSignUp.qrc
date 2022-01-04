@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>Icons/left.png</file>
+    <file>Icons/right.png</file>
+    <file>Icons/telegram.png</file>
+  </qresource>
+</RCC>
